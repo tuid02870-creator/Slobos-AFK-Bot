@@ -2,8 +2,8 @@
   "name": "AFK Bot",
   "bot-account": {
     "username": "Slobot00",
-    "password": "",
-    "type": "offline"
+    "password": "r1234567890",
+    "type": "Online"
   },
   "server": {
     "ip": "VolodymyrDerkac.aternos.me",
