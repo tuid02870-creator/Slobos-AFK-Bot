@@ -38,8 +38,8 @@
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000
+    "auto-reconnect-delay": 0,
+    "max-reconnect-delay": 0
   },
   "movement": {
     "enabled": true,
@@ -50,11 +50,11 @@
     },
     "look-around": {
       "enabled": true,
-      "interval": 2400000000000
+      "interval": 1
     },
     "random-jump": {
       "enabled": true,
-      "interval": 2400000000000
+      "interval": 1
     }
   },
   "modules": {
